@@ -1,2 +1,2 @@
 hello git~
-branch1
+branch1 git~
