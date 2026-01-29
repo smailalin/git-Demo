@@ -1,3 +1,4 @@
 hello git master~
 branch1 git~
 1111111
+clone text 
